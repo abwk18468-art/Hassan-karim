@@ -1,0 +1,14 @@
+{
+  "name": "حسن كريم | محترف بلياردو",
+  "short_name": "حسن كريم",
+  "description": "خدمات تجميع كوينز تيك توك وتدريب بلياردو احترافي",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/profile.jpg", "sizes": "192x192", "type": "image/jpeg" },
+    { "src": "/profile.jpg", "sizes": "512x512", "type": "image/jpeg" }
+  ]
+}
